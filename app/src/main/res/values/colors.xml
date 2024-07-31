@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF808080</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="bg_layout">#E7E42C</color>
+    <color name="bg_color">#0E1643</color>
+    <color name="field_layout">#02025B</color>
+
+    <color name="under_weight">#CCA130</color>
+    <color name="heathy">#3CDC42</color>
+    <color name="over_weight">#C56D5E</color>
+    <color name="obese">#B3160A</color>
+
+</resources>
